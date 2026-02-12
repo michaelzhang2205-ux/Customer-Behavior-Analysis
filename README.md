@@ -3,12 +3,11 @@ Data Analysis Project displaying a series of customer behavior analysis using  P
 **Overview**
 
 This project showcases a complete analytics workflow — from raw data to business insights.
-
 As a graduate in Economics and Business Mathematics, I built this project to reflect how I approach real-world business problems: structured thinking, quantitative analysis, and clear communication of results.
 
 The project walks through:
 
-Loading and exploring data in Python
+- Loading and exploring data in Python
 
 Cleaning and preparing data for analysis
 
@@ -48,9 +47,8 @@ Excel (for validation and cross-checking)
 
 Microsoft Powerpoint
 
-**Project Workflow **
-**1. Data Loading & Exploratory Analysis (Python)
-**
+**Project Workflow**
+**1. Data Loading & Exploratory Analysis (Python)**
 Imported raw data using Pandas
 
 Reviewed structure, data types, and summary statistics
@@ -61,8 +59,7 @@ Explored distributions and trends to understand overall patterns
 
 This phase focused on understanding the data before jumping into conclusions.
 
-**2. Data Cleaning & Preparation
-**
+**2. Data Cleaning & Preparation**
 Removed duplicate records
 
 Handled missing values appropriately
@@ -73,8 +70,7 @@ Created calculated fields to support KPI analysis
 
 The goal was to ensure the dataset was accurate, consistent, and analysis-ready.
 
-**3. SQL Analysis (PostgreSQL/MySQL)
-**
+**3. SQL Analysis (PostgreSQL/MySQL)**
 After cleaning, the data was loaded into a relational database to simulate a real business environment.
 
 I wrote SQL queries using:
@@ -99,8 +95,7 @@ Regional revenue comparisons
 
 This step reflects how analysts typically extract insights from structured databases.
 
-**4. Power BI Dashboard
-**
+**4. Power BI Dashboard**
 I built an interactive dashboard to communicate findings clearly and visually.
 
 The dashboard includes:
@@ -117,8 +112,7 @@ Interactive filters for deeper exploration
 
 The focus was not just visualization — but clarity and usability for decision-makers.
 
-**5. Reporting & Presentation
-**
+**5. Reporting & Presentation**
 To complete the project, I:
 
 Created a structured analytical report
@@ -129,8 +123,7 @@ Developed an executive-style presentation using Gamma
 
 This stage emphasized translating technical analysis into business insights.
 
-**Key Insights
-**
+**Key Insights**
 Identified primary revenue-driving segments
 
 Highlighted top-performing categories
