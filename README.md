@@ -1,4 +1,4 @@
-# 📊 End-to-End Data Analytics Project  
+# End-to-End Data Analytics Project  
 **Michael Zhang**  
 B.S. in Economics 
 B.A. in Business Mathematics  
@@ -116,10 +116,6 @@ To complete the project:
 
 - A structured analytical report was created
 - Key insights and recommendations were summarized
-- An executive-level presentation was developed using Gamma
-
-This stage emphasized translating technical analysis into clear, actionable business insights.
-
 ---
 
 ## **Key Insights**
@@ -129,7 +125,7 @@ This stage emphasized translating technical analysis into clear, actionable busi
 - Detected geographic concentration trends
 - Provided data-backed recommendations for performance improvement
 
-Beyond technical execution, this project demonstrates my ability to connect quantitative analysis with strategic business thinking — a skill developed through my background in **Economics and Business Mathematics**.
+Beyond technical execution, this project demonstrates my ability to connect quantitative analysis with strategic business thinking
 
 ---
 
