@@ -1,135 +1,145 @@
-# Customer-Behavior-Analysis
-Data Analysis Project displaying a series of customer behavior analysis using  PostgreSQL, Python, Excel, and Power BI.
-**Overview**
+# 📊 End-to-End Data Analytics Project  
+**Michael Zhang**  
+B.S. in Economics 
+B.A. in Business Mathematics  
+UNC Charlotte – Winter 2025  
 
-This project showcases a complete analytics workflow — from raw data to business insights.
-As a graduate in Economics and Business Mathematics, I built this project to reflect how I approach real-world business problems: structured thinking, quantitative analysis, and clear communication of results.
+---
 
-The project walks through:
+## **Overview**
 
-- Loading and exploring data in Python
+This project demonstrates a complete analytics workflow — from raw data to business insights.
 
-Cleaning and preparing data for analysis
+As a graduate in **Economics and Business Mathematics**, I built this project to reflect how I approach real-world business problems: structured thinking, quantitative analysis, and clear communication of results.
 
-Writing SQL queries in PostgreSQL / MySQL / SQL Server
+This project includes:
 
-Building an interactive Power BI dashboard
+- Loading and exploring data in **Python**
+- Cleaning and preparing data for analysis
+- Writing SQL queries in **PostgreSQL / MySQL / SQL Server**
+- Building an interactive **Power BI dashboard**
+- Delivering insights through a written report and executive presentation
 
-Delivering insights through a written report and executive presentation
+The objective was to simulate the responsibilities of an entry-level **Business or Data Analyst** in a real organization.
 
-The objective was simple: simulate what an entry-level analyst would actually do on the job.
+---
 
-**Dataset**
+## **Dataset**
 
-The dataset includes transactional and customer-level data used to analyze:
+The dataset contains transactional and customer-level data used to analyze:
 
-Revenue performance
+- Revenue performance
+- Customer behavior
+- Product and category trends
+- Regional comparisons
+- Key performance indicators (KPIs)
 
-Customer behavior
+The data was first explored in Python and later structured in a relational database to support SQL-based analysis.
 
-Product/category trends
+---
 
-Regional comparisons
+## **Tools & Technologies**
 
-Key performance indicators (KPIs)
+- **Python (Pandas, NumPy, Matplotlib)**
+- **PostgreSQL / MySQL / SQL Server**
+- **Power BI**
+- **Excel (validation and cross-checking)**
+- **Gamma (executive presentation)**
 
-The data was first explored in Python, then structured in a relational database to support SQL-based analysis.
+---
 
-Tools & Technologies
+## **Project Workflow**
 
-Python (Pandas, NumPy, Matplotlib)
+### **1. Data Loading & Exploratory Data Analysis (EDA)**
 
-PostgreSQL / MySQL / SQL Server
+- Imported raw data using Pandas
+- Reviewed structure, data types, and summary statistics
+- Identified missing values, duplicates, and inconsistencies
+- Explored distributions and trends to understand patterns
 
-Power BI
+This phase focused on understanding the data before drawing conclusions.
 
-Excel (for validation and cross-checking)
+---
 
-Microsoft Powerpoint
+### **2. Data Cleaning & Preparation**
 
-**Project Workflow**
-**1. Data Loading & Exploratory Analysis (Python)**
-Imported raw data using Pandas
-
-Reviewed structure, data types, and summary statistics
-
-Identified missing values, duplicates, and inconsistencies
-
-Explored distributions and trends to understand overall patterns
-
-This phase focused on understanding the data before jumping into conclusions.
-
-**2. Data Cleaning & Preparation**
-Removed duplicate records
-
-Handled missing values appropriately
-
-Standardized date formats and categorical fields
-
-Created calculated fields to support KPI analysis
+- Removed duplicate records
+- Handled missing values appropriately
+- Standardized date formats and categorical variables
+- Created calculated fields to support KPI analysis
 
 The goal was to ensure the dataset was accurate, consistent, and analysis-ready.
 
-**3. SQL Analysis (PostgreSQL/MySQL)**
-After cleaning, the data was loaded into a relational database to simulate a real business environment.
+---
 
-I wrote SQL queries using:
+### **3. SQL Analysis (PostgreSQL / MySQL / SQL Server)**
 
-SELECT, WHERE, GROUP BY, ORDER BY
+After cleaning, the dataset was loaded into a relational database to simulate a real business environment.
 
-Aggregation functions (SUM, AVG, COUNT)
+SQL queries were written using:
 
-Joins across multiple tables
+- `SELECT`, `WHERE`, `GROUP BY`, `ORDER BY`
+- Aggregation functions (`SUM`, `AVG`, `COUNT`)
+- Table joins
+- Subqueries and window functions
 
-Subqueries and window functions
+These queries were used to analyze:
 
-These queries were used to calculate:
+- Revenue by segment
+- Customer purchase behavior
+- Category-level performance
+- Regional revenue comparisons
 
-Revenue by segment
+This reflects how analysts typically extract insights from structured databases in professional settings.
 
-Customer purchase patterns
+---
 
-Category-level performance
+### **4. Power BI Dashboard Development**
 
-Regional revenue comparisons
-
-This step reflects how analysts typically extract insights from structured databases.
-
-**4. Power BI Dashboard**
-I built an interactive dashboard to communicate findings clearly and visually.
+An interactive dashboard was developed to communicate findings clearly and effectively.
 
 The dashboard includes:
 
-Revenue trends over time
+- Revenue trends over time
+- Segment and category performance
+- Geographic breakdown
+- KPI summary metrics
+- Interactive filters for deeper exploration
 
-Segment and category performance
+The focus was on clarity, usability, and business relevance.
 
-Geographic breakdown
+---
 
-KPI summary metrics
+### **5. Reporting & Presentation**
 
-Interactive filters for deeper exploration
+To complete the project:
 
-The focus was not just visualization — but clarity and usability for decision-makers.
+- A structured analytical report was created
+- Key insights and recommendations were summarized
+- An executive-level presentation was developed using Gamma
 
-**5. Reporting & Presentation**
-To complete the project, I:
+This stage emphasized translating technical analysis into clear, actionable business insights.
 
-Created a structured analytical report
+---
 
-Summarized key findings and recommendations
+## **Key Insights**
 
-Developed an executive-style presentation using Gamma
+- Identified primary revenue-driving customer segments
+- Highlighted top-performing product categories
+- Detected geographic concentration trends
+- Provided data-backed recommendations for performance improvement
 
-This stage emphasized translating technical analysis into business insights.
+Beyond technical execution, this project demonstrates my ability to connect quantitative analysis with strategic business thinking — a skill developed through my background in **Economics and Business Mathematics**.
 
-**Key Insights**
-Identified primary revenue-driving segments
+---
 
-Highlighted top-performing categories
+## **Professional Focus**
 
-Detected geographic concentration trends
+This project reflects how I approach analytical work:
 
-Provided data-backed recommendations for performance improvement
+- Structured and methodical
+- Quantitatively grounded
+- Business-oriented
+- Clear in communication
 
-Beyond the technical work, this project demonstrates my ability to connect quantitative analysis with practical business decisions — a core skill developed through my background in Economics and Business Mathematics.
+With formal training in Economics and Business Mathematics, I aim to combine analytical rigor with practical insight — the foundation for strong performance in entry-level analyst roles.
