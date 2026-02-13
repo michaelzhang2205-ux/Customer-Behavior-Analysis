@@ -16,7 +16,7 @@ This project includes:
 
 - Loading and exploring data in **Python**
 - Cleaning and preparing data for analysis
-- Writing SQL queries in **PostgreSQL / MySQL / SQL Server**
+- Writing SQL queries in **PostgreSQL**
 - Building an interactive **Power BI dashboard**
 - Delivering insights through a written report and executive presentation
 
