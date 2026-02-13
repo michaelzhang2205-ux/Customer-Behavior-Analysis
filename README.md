@@ -8,7 +8,7 @@ UNC Charlotte – Winter 2025
 
 ## **Overview**
 
-This project demonstrates a complete analytics workflow — from raw data to business insights.
+This project demonstrates a complete analytics workflow from raw data to business insights.
 
 As a graduate in **Economics and Business Mathematics**, I built this project to reflect how I approach real-world business problems: structured thinking, quantitative analysis, and clear communication of results.
 
@@ -126,16 +126,5 @@ To complete the project:
 - Provided data-backed recommendations for performance improvement
 
 Beyond technical execution, this project demonstrates my ability to connect quantitative analysis with strategic business thinking
-
----
-
-## **Professional Focus**
-
-This project reflects how I approach analytical work:
-
-- Structured and methodical
-- Quantitatively grounded
-- Business-oriented
-- Clear in communication
 
 With formal training in Economics and Business Mathematics, I aim to combine analytical rigor with practical insight — the foundation for strong performance in entry-level analyst roles.
